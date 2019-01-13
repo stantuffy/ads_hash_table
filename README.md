@@ -1,8 +1,8 @@
 # ads_hash_table
 C, Naive implementation of a string-indexed Hash Table.<br>
-String hashing is implemented using David Julius Bernstein's method.
+<br>String hashing is implemented using David Julius Bernstein's method.
 
-Source files description:<br>
+<br>Source files description:<br>
 <ul>
   <br><b>hash_table.h:</b> Data structures declaration, function prototypes.
   <br><b>hash_table.c:</b> The real implementation of the hash table. 
