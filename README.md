@@ -9,4 +9,4 @@ Source files description:<br>
   <br><b>main.c:</b> Just a simple test program, with some utility functions.
 </ul>
 
-<i>Please note that this library is not production-ready and was developed for academic purposes only.</i>
+<br><br><i>Please note that this library is not production-ready and was developed for academic purposes only.</i>
